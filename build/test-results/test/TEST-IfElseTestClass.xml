@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IfElseTestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-16T15:04:21" hostname="VDI-IGAFAROV10" time="0.051">
+  <properties/>
+  <testcase name="IfElse()" classname="IfElseTestClass" time="0.051"/>
+  <system-out><![CDATA[
+Start of program
+Nothing
+End of program
+
+i > 50
+i > 90
+
+I don't know the number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
